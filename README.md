@@ -1,4 +1,3 @@
-## Cylinder <a id="cylinder">
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=회귀분석&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Mini%20Project&descAlignY=70)
 
 <ul>
